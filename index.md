@@ -1,5 +1,5 @@
 
-Testing # Neha Naladala's First CS193 Homework 
+# Neha Naladala's First CS193 Homework 
 
 - Love the upperclassmen's dedication towards this course.
 - Love that I'm learning the gaps in my major through this course. I wouldn't have known how to navigate GitHub otherwise.
